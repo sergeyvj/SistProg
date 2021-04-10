@@ -1,0 +1,5 @@
+﻿  CourseWork.cpp
+C:\Users\home2\source\repos\CourseWork\CourseWork\Tools.h(63,11): warning C4305: return: усечение из "int" в "bool"
+C:\Users\home2\source\repos\CourseWork\CourseWork\Tools.h(48): warning C4715: RegAdd: значение возвращается не при всех путях выполнения
+C:\Users\home2\source\repos\CourseWork\CourseWork\Tools.h(66): warning C4715: RegRead: значение возвращается не при всех путях выполнения
+  CourseWork.vcxproj -> C:\Users\home2\source\repos\CourseWork\Debug\CourseWork.exe
